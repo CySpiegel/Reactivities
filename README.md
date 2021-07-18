@@ -10,3 +10,12 @@ React</br>
 MobX</br>
 Entity Framework</br>
 Mysql</br>
+
+# Languages
+C#</br>
+Javascript</br>
+JSX</br>
+SQL</br>
+Typesctipt</br>
+HTML</br>
+CSS</br>
