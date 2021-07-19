@@ -62,6 +62,7 @@ namespace API
 
             app.UseRouting();
 
+            // Adds Cors Policy headder on responses from API
             app.UseCors("CorsPolicy");
 
             app.UseAuthorization();
